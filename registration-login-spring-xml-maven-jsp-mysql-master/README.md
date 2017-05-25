@@ -1,7 +1,4 @@
-# Registration and Login Example with Spring MVC 4, Spring Security, Spring Data JPA, XML Configuration, Maven, JSP, and MySQL.
-
-## Guide
-https://hellokoding.com/registration-and-login-example-with-spring-xml-configuration-maven-jsp-and-mysql/
+# Basic Spring E-Ticaret with Spring MVC 4, Spring Security, Spring Data JPA, XML Configuration, Maven, JSP, and MySQL.
 
 ## Prerequisites
 - JDK 1.8 or later
@@ -15,6 +12,3 @@ https://hellokoding.com/registration-and-login-example-with-spring-xml-configura
 - Maven
 - JSP
 - MySQL
-
-## Run
-```mvn jetty:run```
